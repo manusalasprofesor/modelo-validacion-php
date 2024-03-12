@@ -23,7 +23,7 @@
     else{
     
         $_resultado = 'Gracias por contactar con nosotros, en breve nos pondremos en contacto con usted';
-        $_destinatario = 'mplazasaformacion@gmail.com';
+        $_destinatario = 'mail@dominio.extension';
         $_asunto = 'Enviado desde mi sitio web. Formulario de contacto';
         $_contenido = 'Nombre y apellidos: '.$_nombre.' '.$_apellidos."\n".
         'Correo Electrónico: '.$_correo."\n".
